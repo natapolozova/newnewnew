@@ -3,12 +3,6 @@
   padding: 10px 0;
 }
 
-.header .container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
 .menu__list {
   list-style: none;
   display: flex;
@@ -45,9 +39,4 @@
   flex: 1;
 }
 
-.footer {
-  background: #007bff;
-  color: white;
-  text-align: center;
-  padding: 20px;
-}
+

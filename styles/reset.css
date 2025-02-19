@@ -1,6 +1,6 @@
 
 /* styles/reset.css */
-*,
+/* *,
 *::before,
 *::after {
   margin: 0;
@@ -10,9 +10,9 @@
 
 body {
   line-height: 1.5;
-}
+} */
 /* Пример сброса стилей */
-*,
+/* *,
 *::before,
 *::after {
   margin: 0;
@@ -32,4 +32,4 @@ a {
 
 ul, ol {
   list-style: none;
-}
+} */
