@@ -1,0 +1,56 @@
+[
+    {
+      "title": "– Математика для ОГЭ/ЕГЭ –",
+      'src': 'images/cute-girl-with-schoolbag.jpg',
+      'alt': 'Курс ОГЭ',
+      'description': 'Подготовка по математике для успешной сдачи экзаменов.',
+    },
+   {
+       "link": "/children-menu/",
+       "icon": "images/icon/cook.svg",
+       "iconAlt": "Иконка для детского меню",
+       "iconWidth": 24,
+       "iconHeight": 24,
+       "title": "Детское",
+       "description": "Самые полезные блюда которые можно детям любого возраста"
+   },
+   {
+       "link": "/chief-menu/",
+       "icon": "images/icon/chef.svg",
+       "iconAlt": "Иконка для блюд от шеф-поваров",
+       "iconWidth": 24,
+       "iconHeight": 23,
+       "title": "От шеф-поваров",
+       "description": "Требуют умения, времени и терпения, зато как в ресторане"
+   },
+   {
+       "link": "/holiday-menu/",
+       "icon": "images/icon/fire.svg",
+       "iconAlt": "Иконка для блюд на праздник",
+       "iconWidth": 24,
+       "iconHeight": 23,
+       "title": "На праздник",
+       "description": "Чем удивить гостей, чтобы все были сыты за праздничным столом"
+   }
+]
+
+
+
+// card1: {
+//   title: '– Математика для ОГЭ/ЕГЭ –',
+//   src: 'images/cute-girl-with-schoolbag.jpg',
+//   alt: 'Курс ОГЭ',
+//   description: 'Подготовка по математике для успешной сдачи экзаменов.',
+// },
+// card2: {
+//   title: '– Подготовка к ЕГЭ –',
+//   src: 'images/happy-student-girl-with-thumbs-up.jpg',
+//   alt: 'Курс ЕГЭ',
+//   description: 'Курсы для 11-классников с квалифицированными преподавателями.',
+// },
+// card3: {
+//   title: '– Подготовка к ОГЭ –',
+//   src: 'images/11556456.jpg',
+//   alt: 'Подготовка по математике',
+//   description: 'Индивидуальные занятия для школьников 9 классов.',
+// },
